@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'DIYs, Design & Crafts'
-datePublished: '2016-06-03T23:30:04.178Z'
-dateModified: '2016-06-03T23:29:41.167Z'
+datePublished: '2016-06-03T23:33:41.964Z'
+dateModified: '2016-06-03T23:33:34.082Z'
 title: ''
 author: []
+sourcePath: _posts/2016-06-03-diys-design-and-crafts.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-03-diys-design-and-crafts.md
 url: diys-design-and-crafts/index.html
 _type: Article
 
