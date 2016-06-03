@@ -1,6 +1,6 @@
 name: "Mo's Mod Life"
 favicon: null
-layout_spectrum: 0.72744
+layout_spectrum: 1
 typography_spectrum: 0.52862
 title: "Mo's Mod Life"
 cta:
@@ -22,7 +22,7 @@ color:
     - '#ff0f1d'
     - '#1b0f4a'
     - '#8b859f'
-  brandStrength: 0.5
+  brandStrength: 0.625
   lightness: 0.6875
   saturation: 0.625
   rhythmicContrast: 0.5
