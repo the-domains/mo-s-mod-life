@@ -1,14 +1,28 @@
+name: "Mo's Mod Life"
+favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.05376344
+typography_spectrum: 0.52862
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5259385
-  lightness: 0.8082455
-  brandStrength: 0.65498
-  rhythmicContrast: 0.3953308
   brandColors:
     - '#ADD7F6'
     - '#87BFFF'
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-name: "Mo's Mod Life"
+  brandStrength: 0.65498
+  lightness: 0.8082455
+  saturation: 0.5259385
+  rhythmicContrast: 0.3953308
+purpose: []
