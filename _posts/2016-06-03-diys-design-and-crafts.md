@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'DIYs, Design & Crafts'
-datePublished: '2016-06-03T23:33:41.964Z'
-dateModified: '2016-06-03T23:33:34.082Z'
+datePublished: '2016-06-03T23:35:51.385Z'
+dateModified: '2016-06-03T23:33:51.166Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-03-diys-design-and-crafts.md
