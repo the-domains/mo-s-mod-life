@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'This is where you''ll find all my fun DIY, design and craft projects!'
-datePublished: '2016-06-04T01:20:58.458Z'
-dateModified: '2016-06-04T01:19:36.595Z'
+datePublished: '2016-06-04T01:21:25.150Z'
+dateModified: '2016-06-04T01:21:07.597Z'
 title: 'DIYs, Design & Crafts'
 author:
   - name: ''
