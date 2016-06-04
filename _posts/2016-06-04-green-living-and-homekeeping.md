@@ -1,19 +1,19 @@
 ---
+inFeed: true
+hasPage: true
+inNav: true
+inLanguage: null
+keywords: []
 description: >-
   This is where you'll find things about running a green and organized
   household.
-datePublished: '2016-06-04T05:30:38.458Z'
-inNav: true
-inLanguage: null
+datePublished: '2016-06-04T05:31:38.926Z'
+dateModified: '2016-06-04T05:31:04.527Z'
+title: Green Living & Homekeeping
 author: []
 sourcePath: _posts/2016-06-04-green-living-and-homekeeping.md
-hasPage: true
 authors: []
-title: Green Living & Homekeeping
 publisher: null
-keywords: []
-dateModified: '2016-06-04T05:30:31.001Z'
-inFeed: true
 starred: false
 url: green-living-and-homekeeping/index.html
 _type: Article
