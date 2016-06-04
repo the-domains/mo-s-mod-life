@@ -1,41 +1,41 @@
-name: "Mo's Mod Life"
-favicon: null
-layout_spectrum: 0.80203
-typography_spectrum: 0.52862
 title: "Mo's Mod Life"
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
+color:
+  saturation: 0.5
+  brandStrength: 0.6863799
+  lightness: 0.8125
+  brandColors:
+    - '#FCE6AA'
+    - '#54CCCA'
+    - '#398A8D'
+    - '#EF1E1C'
+    - '#5F160D'
+  rhythmicContrast: 0.5
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: "Mo's Mod Life"
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#1b1b1b'
-    - '#e4e4e4'
-    - '#d42d4b'
-    - '#b77249'
-    - '#7db19b'
-  brandStrength: 0.3125
-  lightness: 0.8125
-  saturation: 0.5
-  rhythmicContrast: 0.5
-purpose: []
+typography_spectrum: 0.52862
+layout_spectrum: 1
