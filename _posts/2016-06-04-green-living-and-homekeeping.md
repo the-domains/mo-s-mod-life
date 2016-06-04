@@ -7,10 +7,12 @@ keywords: []
 description: >-
   This is where you'll find things about running a green and organized
   household.
-datePublished: '2016-06-04T05:32:35.914Z'
-dateModified: '2016-06-04T05:32:30.545Z'
+datePublished: '2016-06-04T05:33:42.183Z'
+dateModified: '2016-06-04T05:32:43.806Z'
 title: Green Living & Homekeeping
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-06-04-green-living-and-homekeeping.md
 authors: []
 publisher: null
