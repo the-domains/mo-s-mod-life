@@ -5,14 +5,14 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-04T05:27:45.027Z'
-dateModified: '2016-06-04T05:27:14.668Z'
+datePublished: '2016-06-04T05:28:56.211Z'
+dateModified: '2016-06-04T05:27:53.107Z'
 title: ''
 author: []
+sourcePath: _posts/2016-06-04-green-living-and-homekeeping.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-04-green-living-and-homekeeping.md
 url: green-living-and-homekeeping/index.html
 _type: Article
 
