@@ -4,10 +4,10 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-06-04T05:01:03.097Z'
-dateModified: '2016-06-04T05:00:27.300Z'
-title: ''
+description: 'This is where you''ll find all things mommy and baby. '
+datePublished: '2016-06-04T05:02:19.561Z'
+dateModified: '2016-06-04T05:02:18.175Z'
+title: Mommy & Baby
 author:
   - name: ''
     url: ''
@@ -19,4 +19,4 @@ url: mommy-and-baby/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/24c9d60b-8db2-4beb-a083-bca94cf85f7f.jpg)
+![This is where you'll find all things mommy and baby. ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/24c9d60b-8db2-4beb-a083-bca94cf85f7f.jpg)
