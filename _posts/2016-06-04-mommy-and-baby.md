@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'This is where you''ll find all things mommy and baby. '
-datePublished: '2016-06-04T05:04:05.188Z'
-dateModified: '2016-06-04T05:03:29.370Z'
+datePublished: '2016-06-04T05:05:09.077Z'
+dateModified: '2016-06-04T05:04:26.995Z'
 title: Mommy & Baby
 author:
   - name: ''
