@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: 'DIYs, Design & Crafts'
-datePublished: '2016-06-04T00:44:38.846Z'
-dateModified: '2016-06-04T00:38:00.744Z'
+datePublished: '2016-06-04T01:01:59.164Z'
+dateModified: '2016-06-04T01:01:18.690Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-03-diys-design-and-crafts.md
@@ -18,4 +18,10 @@ _type: Article
 
 ---
 DIYs, Design & Crafts
+
+Food & Drinks
+
+Mommy Stuff
+
+Style & Fashion
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/32c3666b-742b-44fd-b79f-eee9e4732597.jpg)
