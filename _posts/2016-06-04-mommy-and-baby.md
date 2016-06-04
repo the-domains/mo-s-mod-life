@@ -5,16 +5,16 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-04T04:49:24.489Z'
-dateModified: '2016-06-04T04:48:56.012Z'
+datePublished: '2016-06-04T04:50:22.416Z'
+dateModified: '2016-06-04T04:49:32.984Z'
 title: Mommy & Baby
 author:
   - name: ''
     url: ''
+sourcePath: _posts/2016-06-04-mommy-and-baby.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-04-mommy-and-baby.md
 url: mommy-and-baby/index.html
 _type: Article
 
