@@ -4,7 +4,7 @@
         <description><![CDATA[Mo's Mod Life]]></description>
         <link>http://mosmodlife.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 05 Jun 2016 00:03:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jun 2016 00:04:05 GMT</lastBuildDate>
         <atom:link href="http://mosmodlife.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome!]]></title>
@@ -12,6 +12,13 @@
             <link>http://mosmodlife.com/welcome/index.html</link>
             <guid isPermaLink="false">2ff21805-66c5-4422-aa47-8c59be68ffe9</guid>
             <pubDate>Sat, 04 Jun 2016 05:07:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[DIYs, Design & Crafts]]></title>
+            <description><![CDATA[<article><h1>DIYs, Design & Crafts</h1><p>This is where you'll find all my fun DIY, design and craft projects!</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/32c3666b-742b-44fd-b79f-eee9e4732597.jpg"></article>]]></description>
+            <link>http://mosmodlife.com/diys-design-and-crafts/index.html</link>
+            <guid isPermaLink="false">545384bb-865a-4fe8-93a7-47f3ec79d9f2</guid>
+            <pubDate>Sun, 05 Jun 2016 00:03:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Green Living & Homekeeping]]></title>
@@ -26,13 +33,6 @@
             <link>http://mosmodlife.com/mommy-and-baby/index.html</link>
             <guid isPermaLink="false">63321bf5-dbc6-42d0-8eeb-f9b978488fa4</guid>
             <pubDate>Sat, 04 Jun 2016 05:05:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DIYs, Design & Crafts]]></title>
-            <description><![CDATA[<article><h1>DIYs, Design & Crafts</h1><p>This is where you'll find all my fun DIY, design and craft projects!</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/32c3666b-742b-44fd-b79f-eee9e4732597.jpg"></article>]]></description>
-            <link>http://mosmodlife.com/diys-design-and-crafts/index.html</link>
-            <guid isPermaLink="false">545384bb-865a-4fe8-93a7-47f3ec79d9f2</guid>
-            <pubDate>Sat, 04 Jun 2016 01:50:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Food & Drinks]]></title>
