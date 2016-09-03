@@ -28,6 +28,9 @@ navigation:
   - name: Welcome!!
     id: 4f9637b2-4c4d-4ecf-b40d-69658ee04f74
     type: content
+  - name: Green Living & Homekeeping
+    id: f701580a-6044-42d7-b086-6de81f00b98f
+    type: content
 favicon: null
 collections:
   - index:
