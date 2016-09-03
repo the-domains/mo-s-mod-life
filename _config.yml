@@ -34,6 +34,9 @@ navigation:
   - name: Mommy & Baby
     id: 63321bf5-dbc6-42d0-8eeb-f9b978488fa4
     type: content
+  - name: Food & Drinks
+    id: 3fd836f8-f028-4a55-acba-745d12d227fe
+    type: content
 favicon: null
 collections:
   - index:
