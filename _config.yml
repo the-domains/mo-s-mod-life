@@ -31,6 +31,9 @@ navigation:
   - name: Green Living & Homekeeping
     id: f701580a-6044-42d7-b086-6de81f00b98f
     type: content
+  - name: Mommy & Baby
+    id: 63321bf5-dbc6-42d0-8eeb-f9b978488fa4
+    type: content
 favicon: null
 collections:
   - index:
