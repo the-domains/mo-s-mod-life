@@ -4,7 +4,7 @@
         <description><![CDATA[Rosemary & Gingham]]></description>
         <link>http://rosemaryandgingham.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 01 Sep 2016 04:32:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2016 04:32:21 GMT</lastBuildDate>
         <atom:link href="http://rosemaryandgingham.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome!!]]></title>
@@ -12,6 +12,13 @@
             <link>http://rosemaryandgingham.com/welcome/index.html</link>
             <guid isPermaLink="false">4f9637b2-4c4d-4ecf-b40d-69658ee04f74</guid>
             <pubDate>Thu, 01 Sep 2016 04:20:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mommy & Baby]]></title>
+            <description><![CDATA[<article><h1>Mommy & Baby</h1><p>This is where you'll find all things mommy and baby. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/24c9d60b-8db2-4beb-a083-bca94cf85f7f.jpg"></article>]]></description>
+            <link>http://rosemaryandgingham.com/mommy-and-baby/index.html</link>
+            <guid isPermaLink="false">63321bf5-dbc6-42d0-8eeb-f9b978488fa4</guid>
+            <pubDate>Thu, 01 Sep 2016 04:32:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Green Living & Homekeeping]]></title>
@@ -26,13 +33,6 @@
             <link>http://rosemaryandgingham.com/food-and-drinks/index.html</link>
             <guid isPermaLink="false">3fd836f8-f028-4a55-acba-745d12d227fe</guid>
             <pubDate>Thu, 01 Sep 2016 04:27:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mommy & Baby]]></title>
-            <description><![CDATA[<article><h1>Mommy & Baby</h1><p>This is where you'll find all things mommy and baby. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/24c9d60b-8db2-4beb-a083-bca94cf85f7f.jpg"></article>]]></description>
-            <link>http://rosemaryandgingham.com/mommy-and-baby/index.html</link>
-            <guid isPermaLink="false">63321bf5-dbc6-42d0-8eeb-f9b978488fa4</guid>
-            <pubDate>Mon, 06 Jun 2016 21:28:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[DIYs, Design & Crafts]]></title>
