@@ -28,17 +28,17 @@ navigation:
   - name: Welcome!!
     id: 4f9637b2-4c4d-4ecf-b40d-69658ee04f74
     type: content
-  - name: Green Living & Homekeeping
-    id: f701580a-6044-42d7-b086-6de81f00b98f
+  - name: Food & Drinks
+    id: 3fd836f8-f028-4a55-acba-745d12d227fe
     type: content
   - name: Mommy & Baby
     id: 63321bf5-dbc6-42d0-8eeb-f9b978488fa4
     type: content
-  - name: Food & Drinks
-    id: 3fd836f8-f028-4a55-acba-745d12d227fe
-    type: content
   - name: 'DIYs, Design & Crafts'
     id: 545384bb-865a-4fe8-93a7-47f3ec79d9f2
+    type: content
+  - name: Green Living & Homekeeping
+    id: f701580a-6044-42d7-b086-6de81f00b98f
     type: content
 favicon: null
 collections:
