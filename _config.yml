@@ -27,9 +27,6 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: Welcome!!
-    id: 4f9637b2-4c4d-4ecf-b40d-69658ee04f74
-    type: content
   - name: Food & Drinks
     id: 3fd836f8-f028-4a55-acba-745d12d227fe
     type: content
