@@ -5,15 +5,16 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'This is where you''ll find all my fun DIY, design and craft projects!'
-datePublished: '2016-06-05T00:03:53.892Z'
-dateModified: '2016-06-04T01:50:46.490Z'
+datePublished: '2016-09-01T04:32:32.473Z'
+dateModified: '2016-09-01T04:32:32.124Z'
 title: 'DIYs, Design & Crafts'
 author:
   - name: ''
     url: ''
 sourcePath: _posts/2016-06-03-diys-design-and-crafts.md
 authors: []
-publisher: null
+publisher: {}
+via: {}
 starred: false
 url: diys-design-and-crafts/index.html
 _type: Article
