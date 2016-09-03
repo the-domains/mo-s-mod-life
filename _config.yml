@@ -1,8 +1,30 @@
-name: Mo's Mod Life
-favicon: null
-layout_spectrum: 0.81516
 typography_spectrum: 0.52862
-title: Rosemary & Gingham
+color:
+  brandColors:
+    - '#0a0e0f'
+    - '#d8293a'
+    - '#9cce99'
+    - '#ea817d'
+    - '#ffffff'
+  brandStrength: 0.875
+  lightness: 0.75
+  saturation: 0.1875
+  rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.81516
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Mo's Mod Life
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 collections:
   - index:
       path: /
@@ -15,27 +37,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#0a0e0f'
-    - '#d8293a'
-    - '#9cce99'
-    - '#ea817d'
-    - '#ffffff'
-  brandStrength: 0.875
-  lightness: 0.75
-  saturation: 0.1875
-  rhythmicContrast: 0.75
+title: Rosemary & Gingham
 purpose: []
