@@ -37,6 +37,9 @@ navigation:
   - name: Food & Drinks
     id: 3fd836f8-f028-4a55-acba-745d12d227fe
     type: content
+  - name: 'DIYs, Design & Crafts'
+    id: 545384bb-865a-4fe8-93a7-47f3ec79d9f2
+    type: content
 favicon: null
 collections:
   - index:
