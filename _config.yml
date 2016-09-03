@@ -14,15 +14,15 @@ collections:
       number: 10
 color:
   saturation: 0.1875
-  brandStrength: 0.875
-  rhythmicContrast: 0.75
-  brandColors:
-    - '#0a0e0f'
-    - '#d8293a'
-    - '#9cce99'
-    - '#ea817d'
-    - '#ffffff'
+  brandStrength: 0.8315412
   lightness: 0.75
+  brandColors:
+    - '#F8E2EF'
+    - '#38453E'
+    - '#B8D0DC'
+    - '#467C64'
+    - '#85A8A4'
+  rhythmicContrast: 0.75
 navigation:
   - name: Food & Drinks
     id: 3fd836f8-f028-4a55-acba-745d12d227fe
@@ -40,12 +40,12 @@ analytics:
   twitter: null
   google: null
   facebook: null
+name: Rosemary & Gingham
 favicon: null
 cta:
   bucket: null
   version: null
   domain: null
-name: Rosemary & Gingham
 opengraph:
   image: null
   type: null
@@ -53,4 +53,4 @@ opengraph:
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/af705300-1d77-4a53-9043-3ff593683dde.jpg
 typography_spectrum: 0.06630825
-layout_spectrum: 0.8602151
+layout_spectrum: 0.9103943
