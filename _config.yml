@@ -1,31 +1,28 @@
-layout_spectrum: 0.18168846936896443
-typography_spectrum: 0.956250784220174
+title: Rosemary & Gingham
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.1875
+  brandStrength: 0.875
+  rhythmicContrast: 0.75
   brandColors:
     - '#0a0e0f'
     - '#d8293a'
     - '#9cce99'
     - '#ea817d'
     - '#ffffff'
-  brandStrength: 0.875
   lightness: 0.75
-  saturation: 0.1875
-  rhythmicContrast: 0.75
-opengraph:
-  image: null
-  type: null
-  appId: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/af705300-1d77-4a53-9043-3ff593683dde.jpg
-name: Rosemary & Gingham
-cta:
-  domain: null
-  bucket: null
-  version: null
 navigation:
   - name: Food & Drinks
     id: 3fd836f8-f028-4a55-acba-745d12d227fe
@@ -39,18 +36,21 @@ navigation:
   - name: 'DIYs, Design & Crafts'
     id: 545384bb-865a-4fe8-93a7-47f3ec79d9f2
     type: content
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 favicon: null
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-    permalink:
-      path: '/:title/'
-title: Rosemary & Gingham
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+name: Rosemary & Gingham
+opengraph:
+  image: null
+  type: null
+  appId: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/af705300-1d77-4a53-9043-3ff593683dde.jpg
+typography_spectrum: 0.06630825
+layout_spectrum: 0.8602151
