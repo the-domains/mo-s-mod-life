@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Welcome!!
+    id: 4f9637b2-4c4d-4ecf-b40d-69658ee04f74
+    type: content
 favicon: null
 collections:
   - index:
