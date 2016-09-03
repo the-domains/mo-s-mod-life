@@ -4,7 +4,7 @@
         <description><![CDATA[Rosemary & Gingham]]></description>
         <link>http://rosemaryandgingham.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 01 Sep 2016 04:40:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2016 04:52:52 GMT</lastBuildDate>
         <atom:link href="http://rosemaryandgingham.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome!!]]></title>
@@ -12,6 +12,13 @@
             <link>http://rosemaryandgingham.com/welcome/index.html</link>
             <guid isPermaLink="false">4f9637b2-4c4d-4ecf-b40d-69658ee04f74</guid>
             <pubDate>Thu, 01 Sep 2016 04:40:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Green Living & Homekeeping]]></title>
+            <description><![CDATA[<article><h1>Green Living & Homekeeping</h1><p>This is where you'll find things about running a green and organized household.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/94ae85a7-249f-4ef5-8846-66e41b3b545a.jpg"></article>]]></description>
+            <link>http://rosemaryandgingham.com/green-living-and-homekeeping/index.html</link>
+            <guid isPermaLink="false">f701580a-6044-42d7-b086-6de81f00b98f</guid>
+            <pubDate>Thu, 01 Sep 2016 04:52:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[DIYs, Design & Crafts]]></title>
@@ -33,13 +40,6 @@
             <link>http://rosemaryandgingham.com/mommy-and-baby/index.html</link>
             <guid isPermaLink="false">63321bf5-dbc6-42d0-8eeb-f9b978488fa4</guid>
             <pubDate>Thu, 01 Sep 2016 04:32:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Green Living & Homekeeping]]></title>
-            <description><![CDATA[<article><h1>Green Living & Homekeeping</h1><p>This is where you'll find things about running a green and organized household.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/94ae85a7-249f-4ef5-8846-66e41b3b545a.jpg"></article>]]></description>
-            <link>http://rosemaryandgingham.com/green-living-and-homekeeping/index.html</link>
-            <guid isPermaLink="false">f701580a-6044-42d7-b086-6de81f00b98f</guid>
-            <pubDate>Thu, 01 Sep 2016 04:32:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
