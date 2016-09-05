@@ -1,4 +1,3 @@
-layout_spectrum: 0.7956989
 typography_spectrum: 0.9672864947933704
 color:
   saturation: 0.1875
@@ -15,6 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.7956989
 analytics:
   twitter: null
   google: null
@@ -39,7 +39,8 @@ navigation:
   - name: 'DIYs, Design & Crafts'
     id: 545384bb-865a-4fe8-93a7-47f3ec79d9f2
     type: content
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/a83ebccc-b38d-427a-8f74-27c950154cd1.jpg
 collections:
   - index:
       path: /
